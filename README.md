@@ -1,12 +1,16 @@
-#Money Exchange Application
+# Money Exchange Application
+
 Currency rate app, created with C#.Net WPF and designed with Adobe XD.
 
-#Application UI
+# Application UI
+
 ![](https://i.imgyukle.com/2020/08/24/uUxwNQ.png)
 
-####UI DESIGN FILE
->exchange.xd 
-#Requirements
+#### UI DESIGN FILE
+
+> exchange.xd
+> #Requirements
+
 a. .Net Framework 4.6
 
 > https://dotnet.microsoft.com/download/dotnet-framework/net46
@@ -15,11 +19,14 @@ b. Newtonsoft.Json v12.0.3
 
 > https://www.newtonsoft.com/json
 
-#API To Use
-<b>Free Forex Api</b> used to get currency information.
->https://www.freeforexapi.com/
+# API To Use
 
-#Licence
+<b>Free Forex Api</b> used to get currency information.
+
+> https://www.freeforexapi.com/
+
+# Licence
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright 2020. Mehmet Yıldız.
