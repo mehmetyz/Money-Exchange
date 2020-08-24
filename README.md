@@ -9,7 +9,8 @@ Currency rate app, created with C#.Net WPF and designed with Adobe XD.
 #### UI DESIGN FILE
 
 > exchange.xd
-> #Requirements
+
+# Requirements
 
 a. .Net Framework 4.6
 
